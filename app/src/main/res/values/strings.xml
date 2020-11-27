@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="sale">Sale</string>
+    <string name="to_add_products">Add products</string>
+    <string name="to_add_a_image">Image</string>
+    <string name="empty_view_subtitle_text">Get Started by adding products</string>
+    <string name="increase_quantity">Increase</string>
+    <string name="decrease_quantity">Decrease</string>
+    <string name="order_from_supplier">Order</string>
+    <string name="delete_product">Delete</string>
+    <string name="add_image">Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="current_quantity">Quantity</string>
+    <string name="quantity_number">0</string>
+    <string name="activity_string_edit_products">Add New Product</string>
+    <string name="editor_insert_product_successful">Product inserted sucessfully</string>
+    <string name="editor_insert_pet_successful">Product Inserted Successfully</string>
+    <string name="editor_insert_pet_failed">Product insert failed</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="unsaved_changes_dialog_msg">Do you want to discard data?</string>
+    <string name="product_price">$</string>
+    <string name="price_currency">$</string>
+</resources>
